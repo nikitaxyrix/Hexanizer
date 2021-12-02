@@ -11,3 +11,6 @@ cout << Textanize("YOUR-HEX", the number through each letter of which will put a
 
 # Example
 cout << Textanize("00000000", 2, false) << endl;
+
+# Result
+00 00 00 00
